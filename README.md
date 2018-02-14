@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 14, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Israe Torres)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment is about creation of the Monthly Expense Calculator to calculate a user’s total living expenses for a given
+month.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://israel11021989.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Basic JavaScript Syntax.)
+2. (Structure of JavaScript Programs.)
+3. (Google Chrome Developer Tools.)
 
 
 
